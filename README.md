@@ -21,7 +21,7 @@ To design a modular robotic arm capable of accurate motion and real-time feedbac
 
 ---
 
-**Hardware:** Arduino Uno, MG996R Servos, Rotary Encoders, Voltage Sensors  
+**Hardware:** Arduino Uno R4, MG996R Servos, Rotary Encoders, Voltage Sensors, AS5600 encoders, CNC sheild, TMC-2209 drivers  
 **Software:** C++, Arduino IDE, Altium Designer, Fusion 360, ROS2 (in progress)
 
 ---
