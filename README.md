@@ -1,7 +1,7 @@
 # Advanced-Robotic-Arm-PID-Control-Project
 In progess
 
-This project demonstrates a 7-DOF robotic arm designed and built from scratch with a custom planetary gearbox and integrated PID feedback control system.  
+This project demonstrates a 5-DOF robotic arm designed and built from scratch with a custom planetary gearbox and integrated PID feedback control system.  
 Developed using Arduino and C++, the system uses rotary encoders and pressure sensors for precise joint positioning and adaptive grip control.
 
 ---
@@ -13,7 +13,7 @@ To design a modular robotic arm capable of accurate motion and real-time feedbac
 
 **Features**
 - 5-DOF robotic arm designed in Fusion 360
-- Custom 16:1 planetary gearbox for improved torque
+- Custom 48:1 planetary gearbox for improved torque
 - PID control for position feedback and stability
 - Pressure sensing system for adaptive grip control
 - Encoder-based position tracking
