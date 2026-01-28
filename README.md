@@ -22,7 +22,7 @@ To design a modular robotic arm capable of accurate motion and real-time feedbac
 ---
 
 **Hardware:** Arduino Uno R4, MG996R Servos, Rotary Encoders, Voltage Sensors, AS5600 encoders, CNC sheild, TMC-2209 drivers  
-**Software:** C++, Arduino IDE, Altium Designer, Fusion 360, ROS2 (in progress)
+**Software:** C++, Arduino IDE, Altium Designer, Fusion 360, Matlab, ROS2 (in progress)
 
 ---
 
@@ -40,6 +40,7 @@ You can view them directly in GitHub or download them for 3D printing.
 
 **Future Work**
 - Implementing the PID system via the rotary encoders and servos
+- Implement Matlab Simulus for path and trajectory planning and simulation
 - Implement ROS2 simulation and path planning  
 - Add inverse kinematics and trajectory generation  
 - Integrate computer vision for object tracking
