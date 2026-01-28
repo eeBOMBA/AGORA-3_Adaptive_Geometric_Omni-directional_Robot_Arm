@@ -1,4 +1,4 @@
-# Advanced-Robotic-Arm-PID-Control-Project
+# AGORA-3 (Adaptive Geometric Omni-directional Robot Arm)
 In progess
 
 This project demonstrates a 6-DOF robotic arm designed and built from scratch with a custom planetary gearbox and integrated PID feedback control system.  
